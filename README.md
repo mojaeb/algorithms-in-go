@@ -3,7 +3,7 @@
 implement algorithms in go
 
 
-you can see tutorials for all parts in
+you can see tutorials in
 [devtops.ir](https://devtops.ir)
 
 
